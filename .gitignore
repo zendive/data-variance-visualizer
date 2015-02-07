@@ -1,0 +1,7 @@
+~backup/
+Debug/
+Release/
+*.ncb
+*.suo
+*.aps
+*.exe

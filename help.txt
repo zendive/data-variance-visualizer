@@ -1,0 +1,1 @@
+BMP dimensions NxN= sqrt(file_size/2)
